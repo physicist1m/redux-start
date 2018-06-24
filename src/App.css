@@ -1,0 +1,23 @@
+.App {
+    text-align: left;
+}
+
+.App-title {
+    display: inline;
+}
+
+.App-header {
+    background-color: #222;
+    height: 50px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.App-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}

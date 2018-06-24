@@ -1,0 +1,22 @@
+.App-cart {
+    display: flex;
+    width: 100%;
+    padding: 0 10px;
+}
+
+li {
+    border: 1px solid black;
+    border-top: none;
+    padding: 0 5px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remove-btn {
+    height: 40px;
+    font-size: 9px;
+    padding: 0 20px;
+}
